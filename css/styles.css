@@ -51,5 +51,28 @@ body {
   flex: 1;
   padding: 0.25rem;
 }
+table th{
+  padding: 0.5rem 2rem;
+  background-color: rgb(159, 157, 157);
+}
+table tbody{
+  width: 100%;
+  background-color: rgb(217, 214, 214);
+  text-align: center;
+}
+img{
+  width: 50%;
+  height: auto;
+}
 
-/*# sourceMappingURL=styles.css.map */
+/* thead{
+  background-color: grey;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+} */
+/* .employeeList{
+
+} */
